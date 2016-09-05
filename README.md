@@ -4,7 +4,7 @@
 =====
 ### Basic Algorithms 
 
-* Reverse a String [pending]
+* Reverse a String [solved]
 * Factorialize a Number [pending]
 * Check for Palindromes [pending]
 * Find the Longest Word in a String [pending]
