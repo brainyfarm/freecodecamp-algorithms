@@ -6,7 +6,7 @@
 
 * Reverse a String [solved]
 * Factorialize a Number [solved]
-* Check for Palindromes [pending]
+* Check for Palindromes [solved]
 * Find the Longest Word in a String [pending]
 * Title Case a Sentence [pending]
 * Return Largest Numbers in Arrays [pending]
