@@ -5,7 +5,7 @@
 ### Basic Algorithms 
 
 * Reverse a String [solved]
-* Factorialize a Number [pending]
+* Factorialize a Number [solved]
 * Check for Palindromes [pending]
 * Find the Longest Word in a String [pending]
 * Title Case a Sentence [pending]
