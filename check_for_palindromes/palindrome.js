@@ -1,8 +1,8 @@
 /**
- * @function palindrome
- * Check to see if str is a palindrome
- * @params {String} str 
- * @returns {Boolean}
+ * @func palindrome
+ * Checks if str is a palindrome
+ * @param {String} str
+ * @returns {Boolean} true if str is a palindrome otherwise, false
  */
 function palindrome(str) {
     // Get rid of non alphanumeric characters
