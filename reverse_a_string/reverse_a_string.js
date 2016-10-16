@@ -1,6 +1,6 @@
 /**
  * @function reverseString 
- * Returns the reversed version of str
+ * Returns the reversed version of a string
  * @param {String} str
  * @returns {String}
  */
